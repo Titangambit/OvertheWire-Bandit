@@ -26,10 +26,13 @@ Given informaton:
 <p>if You will see something like this then you have successfully completed level0 </p>
 
 ![bandit0](../assets/bandit0.png)
+
 4. Use `ls` command to view the list of data.
 
 ![ls command](../assets/ls.png)
+
 4. Now use `cat readme` to view the password for level1 
 
 ![cat command](../assets/cat.png)
+
 <p>Copy the password to log into Level1 </p>
